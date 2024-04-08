@@ -1,0 +1,139 @@
+#titre{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    flex:auto;
+    text-align: center;
+    align-self: center;
+    position:relative;
+    top:30px;
+}
+
+#banderole{
+    background:#003C78;
+    height:150px;
+}
+
+
+#logo{
+    height: 100%;
+    flex:auto;
+    text-align: center;
+    align-self: center;
+    position: relative;
+    top:-86px;   
+    right:12px; 
+}
+
+#barre{
+    background-color: #FFED00;
+}
+
+.liens{
+    color: #000000;
+    font-size: 50px;
+}
+
+
+#services{
+    background:#003C78 ;
+    font-size: 30px;
+    color:#FFFFFF;
+}
+
+#accueil{
+    color: #000000;
+    font-size: 25px;
+}
+#accueil:hover{
+    background:#003C78 ;
+    font-size: 30px;
+    color:#FFFFFF;
+}
+
+#histoire{
+    color: #000000;
+    font-size: 25px;
+}
+#histoire:hover{
+    background:#003C78 ;
+    font-size: 30px;
+    color:#FFFFFF;
+}
+
+#contact{
+    color: #000000;
+    font-size: 25px;
+}
+#contact:hover{
+    background:#003C78 ;
+    font-size: 30px;
+    color:#FFFFFF;
+}
+
+#titre_page{
+    position: relative;
+    top : 60px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.slide{
+    font-size: 50px;
+    color:#FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#texte{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer{
+    background-color: #FFED00;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+    position: relative;
+}
+
+#pied{
+    text-align: center;
+    display: block;
+}
+
+#mentions{
+    color: #000000;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.sous-titres{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titres{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#003C78;
+}
+
+.liens{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
